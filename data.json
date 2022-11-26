@@ -1,0 +1,2274 @@
+[
+  {
+    "name": "The Beatles",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Fugazi",
+    "genre": "punk"
+  },
+  {
+    "name": "The Rolling Stones",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "David Bowie",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Black Sabbath",
+    "genre": "metal"
+  },
+  {
+    "name": "Sol",
+    "genre": "electronic"
+  },
+  {
+    "name": "Jimi Hendrix",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Devo",
+    "genre": "punk"
+  },
+  {
+    "name": "CKY",
+    "genre": "metal"
+  },
+  {
+    "name": "Gang Starr",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "The Black Keys",
+    "genre": "indie"
+  },
+  {
+    "name": "The Doors",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Odd Nosdam",
+    "genre": "electronic"
+  },
+  {
+    "name": "Pink Floyd",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "AC/DC",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Joy Division",
+    "genre": "punk"
+  },
+  {
+    "name": "The Kinks",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Iron Maiden",
+    "genre": "metal"
+  },
+  {
+    "name": "Sonic Youth",
+    "genre": "punk"
+  },
+  {
+    "name": "Led Zeppelin",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Metallica",
+    "genre": "metal"
+  },
+  {
+    "name": "Slayer",
+    "genre": "metal"
+  },
+  {
+    "name": "Tommy Guerrero",
+    "genre": "jazz"
+  },
+  {
+    "name": "Baron",
+    "genre": "electronic"
+  },
+  {
+    "name": "Arcade Fire",
+    "genre": "indie"
+  },
+  {
+    "name": "Bad Religion",
+    "genre": "punk"
+  },
+  {
+    "name": "DJ Krush",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Mobb Deep",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Bad Brains",
+    "genre": "punk"
+  },
+  {
+    "name": "Bad Shit",
+    "genre": "metal"
+  },
+  {
+    "name": "Beastie Boys",
+    "genre": "indie"
+  },
+  {
+    "name": "Creedence Clearwater Revival",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Curtis Mayfield",
+    "genre": "jazz"
+  },
+  {
+    "name": "Mr. E",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Nina Simone",
+    "genre": "jazz"
+  },
+  {
+    "name": "Dinosaur Jr.",
+    "genre": "punk"
+  },
+  {
+    "name": "Minor Threat",
+    "genre": "punk"
+  },
+  {
+    "name": "Nas",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Public Enemy",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "?",
+    "genre": "other"
+  },
+  {
+    "name": "Andre Nickatina",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Bob Dylan",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Misfits",
+    "genre": "punk"
+  },
+  {
+    "name": "New Order",
+    "genre": "indie"
+  },
+  {
+    "name": "Spoon",
+    "genre": "indie"
+  },
+  {
+    "name": "Vast",
+    "genre": "metal"
+  },
+  {
+    "name": "Electric Light Orchestra",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "M83",
+    "genre": "electronic"
+  },
+  {
+    "name": "Modest Mouse",
+    "genre": "indie"
+  },
+  {
+    "name": "Notorious B.I.G.",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Radiohead",
+    "genre": "indie"
+  },
+  {
+    "name": "Ramones",
+    "genre": "punk"
+  },
+  {
+    "name": "The Animals",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "DJ Shadow",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Enoch",
+    "genre": "electronic"
+  },
+  {
+    "name": "Iggy Pop",
+    "genre": "punk"
+  },
+  {
+    "name": "Jon Kennedy",
+    "genre": "jazz"
+  },
+  {
+    "name": "Motorhead",
+    "genre": "metal"
+  },
+  {
+    "name": "Mr. Dibbs",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Pixies",
+    "genre": "indie"
+  },
+  {
+    "name": "RJD2",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "The Brian Jonestown Massacre",
+    "genre": "indie"
+  },
+  {
+    "name": "The Cure",
+    "genre": "indie"
+  },
+  {
+    "name": "Yeah Yeah Yeahs",
+    "genre": "indie"
+  },
+  {
+    "name": "Atiba",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Blondie",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Guru",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Judas Priest",
+    "genre": "metal"
+  },
+  {
+    "name": "Marvin Gaye",
+    "genre": "jazz"
+  },
+  {
+    "name": "Ozzy Osbourne",
+    "genre": "metal"
+  },
+  {
+    "name": "Ray Barbee",
+    "genre": "jazz"
+  },
+  {
+    "name": "Stevie Wonder",
+    "genre": "jazz"
+  },
+  {
+    "name": "The Budos Band",
+    "genre": "jazz"
+  },
+  {
+    "name": "The Shins",
+    "genre": "indie"
+  },
+  {
+    "name": "Trans Am",
+    "genre": "indie"
+  },
+  {
+    "name": "Van Morrison",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Wolfmother",
+    "genre": "indie"
+  },
+  {
+    "name": "Adeodat Warfield",
+    "genre": "electronic"
+  },
+  {
+    "name": "Beck",
+    "genre": "indie"
+  },
+  {
+    "name": "Belle & Sebastian",
+    "genre": "indie"
+  },
+  {
+    "name": "Big L",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Bob Marley",
+    "genre": "jazz"
+  },
+  {
+    "name": "Bonobo",
+    "genre": "jazz"
+  },
+  {
+    "name": "De La Soul",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Janis Joplin",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "John Maus",
+    "genre": "electronic"
+  },
+  {
+    "name": "SRKP",
+    "genre": "other"
+  },
+  {
+    "name": "The Pharcyde",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "TV On The Radio",
+    "genre": "indie"
+  },
+  {
+    "name": "Al Green",
+    "genre": "jazz"
+  },
+  {
+    "name": "Black Flag",
+    "genre": "punk"
+  },
+  {
+    "name": "Brian Jonestown Massacre",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Butthole Surfers",
+    "genre": "punk"
+  },
+  {
+    "name": "Cymande",
+    "genre": "jazz"
+  },
+  {
+    "name": "Donovan",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Dr. Dog",
+    "genre": "indie"
+  },
+  {
+    "name": "Euphone",
+    "genre": "jazz"
+  },
+  {
+    "name": "James Brown",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Johnny Cash",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Lynyrd Skynyrd",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Money Mark",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Mophono",
+    "genre": "electronic"
+  },
+  {
+    "name": "Neil Young",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Nirvana",
+    "genre": "indie"
+  },
+  {
+    "name": "Smashing Pumpkins",
+    "genre": "metal"
+  },
+  {
+    "name": "The Clash",
+    "genre": "punk"
+  },
+  {
+    "name": "The Who",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Unkle",
+    "genre": "electronic"
+  },
+  {
+    "name": "Animal Collective",
+    "genre": "indie"
+  },
+  {
+    "name": "Ben Harper",
+    "genre": "jazz"
+  },
+  {
+    "name": "Bloc Party",
+    "genre": "indie"
+  },
+  {
+    "name": "Caural",
+    "genre": "jazz"
+  },
+  {
+    "name": "Crystal Castles",
+    "genre": "electronic"
+  },
+  {
+    "name": "Danzig",
+    "genre": "punk"
+  },
+  {
+    "name": "Eternal Summers",
+    "genre": "indie"
+  },
+  {
+    "name": "Guns N' Roses",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Hightower",
+    "genre": "metal"
+  },
+  {
+    "name": "Interpol",
+    "genre": "indie"
+  },
+  {
+    "name": "Jefferson Airplane",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "John Lennon",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Michael Jackson",
+    "genre": "jazz"
+  },
+  {
+    "name": "Moby",
+    "genre": "electronic"
+  },
+  {
+    "name": "Morrissey",
+    "genre": "indie"
+  },
+  {
+    "name": "Paul Simon",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Pentagram",
+    "genre": "metal"
+  },
+  {
+    "name": "Primus",
+    "genre": "metal"
+  },
+  {
+    "name": "Queen",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Shocking Blue",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Snoop Dogg",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Squarepusher",
+    "genre": "electronic"
+  },
+  {
+    "name": "Stereolab",
+    "genre": "indie"
+  },
+  {
+    "name": "Talking Heads",
+    "genre": "punk"
+  },
+  {
+    "name": "The Damned",
+    "genre": "punk"
+  },
+  {
+    "name": "The Flaming Lips",
+    "genre": "indie"
+  },
+  {
+    "name": "The Promise Ring",
+    "genre": "indie"
+  },
+  {
+    "name": "The Spits",
+    "genre": "punk"
+  },
+  {
+    "name": "Yann Tiersen",
+    "genre": "other"
+  },
+  {
+    "name": "A Tribe Called Quest",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Buffalo Tom",
+    "genre": "indie"
+  },
+  {
+    "name": "Built To Spill",
+    "genre": "indie"
+  },
+  {
+    "name": "Cat Stevens",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Common",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Death In Vegas",
+    "genre": "electronic"
+  },
+  {
+    "name": "Deep Purple",
+    "genre": "metal"
+  },
+  {
+    "name": "DJ Egadz",
+    "genre": "electronic"
+  },
+  {
+    "name": "DJ Mutt",
+    "genre": "electronic"
+  },
+  {
+    "name": "Elliot Smith",
+    "genre": "indie"
+  },
+  {
+    "name": "Explosions In The Sky",
+    "genre": "indie"
+  },
+  {
+    "name": "GG Allin",
+    "genre": "punk"
+  },
+  {
+    "name": "Grandaddy",
+    "genre": "indie"
+  },
+  {
+    "name": "Ice Cube",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Jamiroquai",
+    "genre": "electronic"
+  },
+  {
+    "name": "Jets To Brazil",
+    "genre": "indie"
+  },
+  {
+    "name": "Kiss",
+    "genre": "metal"
+  },
+  {
+    "name": "Lou Reed",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Love",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Matt Costa",
+    "genre": "indie"
+  },
+  {
+    "name": "Mogwai",
+    "genre": "indie"
+  },
+  {
+    "name": "NOFX",
+    "genre": "punk"
+  },
+  {
+    "name": "Patchworks",
+    "genre": "jazz"
+  },
+  {
+    "name": "Pedro The Lion",
+    "genre": "indie"
+  },
+  {
+    "name": "Pegboy",
+    "genre": "metal"
+  },
+  {
+    "name": "Santana",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Souls of Mischief",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Sweet Apple",
+    "genre": "metal"
+  },
+  {
+    "name": "The Smiths",
+    "genre": "indie"
+  },
+  {
+    "name": "The Velvet Underground",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "The White Stripes",
+    "genre": "indie"
+  },
+  {
+    "name": "Tom Waits",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Tortoise",
+    "genre": "indie"
+  },
+  {
+    "name": "Ty Segall",
+    "genre": "indie"
+  },
+  {
+    "name": "UGK",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Weird War",
+    "genre": "indie"
+  },
+  {
+    "name": "YOka",
+    "genre": "other"
+  },
+  {
+    "name": "2Pac",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "7 Seconds",
+    "genre": "punk"
+  },
+  {
+    "name": "Air",
+    "genre": "electronic"
+  },
+  {
+    "name": "Ariel Pink's Haunted Graffiti",
+    "genre": "indie"
+  },
+  {
+    "name": "Bracket",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Broken Social Scene",
+    "genre": "indie"
+  },
+  {
+    "name": "Cam'ron",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Casual",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Chad Muska",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Cream",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Dead Kennedys",
+    "genre": "punk"
+  },
+  {
+    "name": "Del Tha Funkee Homosapien",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "EPMD",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Gang of Four",
+    "genre": "punk"
+  },
+  {
+    "name": "Graveyard",
+    "genre": "metal"
+  },
+  {
+    "name": "Hurakan",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Kanye West",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Kelley Stoltz",
+    "genre": "indie"
+  },
+  {
+    "name": "MGMT",
+    "genre": "indie"
+  },
+  {
+    "name": "Mos Def",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Murs",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Otis Redding",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "OutKast",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Pinback",
+    "genre": "indie"
+  },
+  {
+    "name": "Portishead",
+    "genre": "indie"
+  },
+  {
+    "name": "Queens Of The Stone Age",
+    "genre": "metal"
+  },
+  {
+    "name": "Red Octopus",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Roxy Music",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Sacred Hoop",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Sayvinyl",
+    "genre": "other"
+  },
+  {
+    "name": "Shawn Lee's Ping Pong Orchestra",
+    "genre": "jazz"
+  },
+  {
+    "name": "Shed",
+    "genre": "electronic"
+  },
+  {
+    "name": "South",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Steve Miller Band",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Suicidal Tendencies",
+    "genre": "punk"
+  },
+  {
+    "name": "Swollen Members",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "T. Rex",
+    "genre": "punk"
+  },
+  {
+    "name": "The Adolescents",
+    "genre": "punk"
+  },
+  {
+    "name": "The Faction",
+    "genre": "punk"
+  },
+  {
+    "name": "The Faint",
+    "genre": "indie"
+  },
+  {
+    "name": "The Greenhornes",
+    "genre": "indie"
+  },
+  {
+    "name": "The Grouch",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "The Odd Numbers",
+    "genre": "punk"
+  },
+  {
+    "name": "The People Under The Stairs",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "The Specials",
+    "genre": "punk"
+  },
+  {
+    "name": "Turbonegro",
+    "genre": "punk"
+  },
+  {
+    "name": "Ugly Duckling",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Ululation",
+    "genre": "other"
+  },
+  {
+    "name": "Uriah Heep",
+    "genre": "metal"
+  },
+  {
+    "name": "Wolf Parade",
+    "genre": "indie"
+  },
+  {
+    "name": "Youth Brigade",
+    "genre": "punk"
+  },
+  {
+    "name": "((sounder))",
+    "genre": "electronic"
+  },
+  {
+    "name": "707 Team",
+    "genre": "other"
+  },
+  {
+    "name": "Autechre",
+    "genre": "indie"
+  },
+  {
+    "name": "Bad Strip",
+    "genre": "punk"
+  },
+  {
+    "name": "Black Mountain",
+    "genre": "metal"
+  },
+  {
+    "name": "Black Sheep",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Blonde Redhead",
+    "genre": "indie"
+  },
+  {
+    "name": "Bruce Springsteen",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Busy P",
+    "genre": "electronic"
+  },
+  {
+    "name": "Cass McCombs",
+    "genre": "indie"
+  },
+  {
+    "name": "Chicago",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Dead Moon",
+    "genre": "punk"
+  },
+  {
+    "name": "Division Of Laura Lee",
+    "genre": "other"
+  },
+  {
+    "name": "Down By Law",
+    "genre": "punk"
+  },
+  {
+    "name": "Duane Pitre",
+    "genre": "jazz"
+  },
+  {
+    "name": "Earthless",
+    "genre": "metal"
+  },
+  {
+    "name": "El Michels Affair",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Ennio Morricone",
+    "genre": "other"
+  },
+  {
+    "name": "Eternal Summers",
+    "genre": "indie"
+  },
+  {
+    "name": "Four Tet",
+    "genre": "jazz"
+  },
+  {
+    "name": "Future Islands",
+    "genre": "indie"
+  },
+  {
+    "name": "Godspeed You! Black Emperor",
+    "genre": "indie"
+  },
+  {
+    "name": "Grateful Dead",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Jedi Mind Tricks",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Jel",
+    "genre": "electronic"
+  },
+  {
+    "name": "Jethro Tull",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Kabanjak",
+    "genre": "jazz"
+  },
+  {
+    "name": "Ladytron",
+    "genre": "electronic"
+  },
+  {
+    "name": "Lil Wayne",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Midlake",
+    "genre": "indie"
+  },
+  {
+    "name": "Motley Crue",
+    "genre": "metal"
+  },
+  {
+    "name": "Nihilist",
+    "genre": "metal"
+  },
+  {
+    "name": "Nobody",
+    "genre": "electronic"
+  },
+  {
+    "name": "Ol' Dirty Bastard",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Orchestra Di Rockford Kabine",
+    "genre": "other"
+  },
+  {
+    "name": "Patti Smith",
+    "genre": "punk"
+  },
+  {
+    "name": "Procol Harum",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Project Pat",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Quantic",
+    "genre": "jazz"
+  },
+  {
+    "name": "Radio Birdman",
+    "genre": "punk"
+  },
+  {
+    "name": "Rancid",
+    "genre": "punk"
+  },
+  {
+    "name": "Ray Charles",
+    "genre": "jazz"
+  },
+  {
+    "name": "Rick Ross",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Rod Stewart",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Rodrigo & Gabriela",
+    "genre": "jazz"
+  },
+  {
+    "name": "Sebadoh",
+    "genre": "indie"
+  },
+  {
+    "name": "Sizzla",
+    "genre": "jazz"
+  },
+  {
+    "name": "Starfucker",
+    "genre": "indie"
+  },
+  {
+    "name": "Status Quo",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Sub Society",
+    "genre": "punk"
+  },
+  {
+    "name": "Surfer Blood",
+    "genre": "indie"
+  },
+  {
+    "name": "Talib Kweli",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "The Amazing Phillips Sisters",
+    "genre": "other"
+  },
+  {
+    "name": "The Jam",
+    "genre": "punk"
+  },
+  {
+    "name": "The LSDemons",
+    "genre": "metal"
+  },
+  {
+    "name": "The Offspring",
+    "genre": "punk"
+  },
+  {
+    "name": "The Organ",
+    "genre": "indie"
+  },
+  {
+    "name": "The Sounds",
+    "genre": "indie"
+  },
+  {
+    "name": "The Stranglers",
+    "genre": "punk"
+  },
+  {
+    "name": "The Yardbirds",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Thin Lizzy",
+    "genre": "metal"
+  },
+  {
+    "name": "Three 6 Mafia",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Three Dog Night",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Whitey",
+    "genre": "indie"
+  },
+  {
+    "name": "Witch",
+    "genre": "metal"
+  },
+  {
+    "name": "Youth Lagoon",
+    "genre": "indie"
+  },
+  {
+    "name": "456 Productions",
+    "genre": "other"
+  },
+  {
+    "name": "A Band of Bees",
+    "genre": "indie"
+  },
+  {
+    "name": "Aim",
+    "genre": "electronic"
+  },
+  {
+    "name": "Archers of Loaf",
+    "genre": "indie"
+  },
+  {
+    "name": "ASG",
+    "genre": "metal"
+  },
+  {
+    "name": "Atmosphere",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Beirut",
+    "genre": "indie"
+  },
+  {
+    "name": "Birds of Avalon",
+    "genre": "indie"
+  },
+  {
+    "name": "Bjork",
+    "genre": "electronic"
+  },
+  {
+    "name": "Bobby Womack",
+    "genre": "jazz"
+  },
+  {
+    "name": "Brooklyn Funk Essentials",
+    "genre": "jazz"
+  },
+  {
+    "name": "Brotha Lynch Hung",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Calexico",
+    "genre": "electronic"
+  },
+  {
+    "name": "Canned Heat",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Captain Beefheart",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Chemical Brothers",
+    "genre": "electronic"
+  },
+  {
+    "name": "Coolio",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Cypress Hill",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Dance Hall Crashers",
+    "genre": "punk"
+  },
+  {
+    "name": "David Holmes",
+    "genre": "electronic"
+  },
+  {
+    "name": "Deela",
+    "genre": "other"
+  },
+  {
+    "name": "Devendra Banhart",
+    "genre": "electronic"
+  },
+  {
+    "name": "Dick Dale",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Digable Planets",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "DJ Frane",
+    "genre": "electronic"
+  },
+  {
+    "name": "DJ Vadim",
+    "genre": "jazz"
+  },
+  {
+    "name": "DMX",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Doves",
+    "genre": "indie"
+  },
+  {
+    "name": "Drunk Injuns",
+    "genre": "punk"
+  },
+  {
+    "name": "Dutch Dub",
+    "genre": "electronic"
+  },
+  {
+    "name": "Eagles Of Death Metal",
+    "genre": "metal"
+  },
+  {
+    "name": "Elvis Presley",
+    "genre": "indie"
+  },
+  {
+    "name": "Extra Prolific",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Fatboy Slim",
+    "genre": "electronic"
+  },
+  {
+    "name": "Frank Zappa",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Fretblanket",
+    "genre": "metal"
+  },
+  {
+    "name": "Greyboy",
+    "genre": "jazz"
+  },
+  {
+    "name": "Grindline The Band",
+    "genre": "metal"
+  },
+  {
+    "name": "Hawkwind",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Heart",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "HIM",
+    "genre": "metal"
+  },
+  {
+    "name": "Hip Hop For Respect",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Hum",
+    "genre": "metal"
+  },
+  {
+    "name": "INXS",
+    "genre": "indie"
+  },
+  {
+    "name": "Jet Black Crayon",
+    "genre": "jazz"
+  },
+  {
+    "name": "Jurassic 5",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Justice",
+    "genre": "electronic"
+  },
+  {
+    "name": "Le Tigre",
+    "genre": "electronic"
+  },
+  {
+    "name": "Les Savy Fav",
+    "genre": "indie"
+  },
+  {
+    "name": "Luscious Jackson",
+    "genre": "indie"
+  },
+  {
+    "name": "Madonna",
+    "genre": "indie"
+  },
+  {
+    "name": "Marginal Man",
+    "genre": "punk"
+  },
+  {
+    "name": "Mudhoney",
+    "genre": "punk"
+  },
+  {
+    "name": "N.W.A.",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "NAS",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Nevermore",
+    "genre": "metal"
+  },
+  {
+    "name": "Old Canes",
+    "genre": "indie"
+  },
+  {
+    "name": "Pantera",
+    "genre": "metal"
+  },
+  {
+    "name": "Pennywise",
+    "genre": "punk"
+  },
+  {
+    "name": "Pepper Rabbit",
+    "genre": "indie"
+  },
+  {
+    "name": "Phoenix",
+    "genre": "indie"
+  },
+  {
+    "name": "Placebo",
+    "genre": "indie"
+  },
+  {
+    "name": "Prince",
+    "genre": "jazz"
+  },
+  {
+    "name": "Reflection Eternal",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Rick James",
+    "genre": "jazz"
+  },
+  {
+    "name": "Rudimentary Peni",
+    "genre": "punk"
+  },
+  {
+    "name": "Rush",
+    "genre": "metal"
+  },
+  {
+    "name": "Slippers",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Sly & The Family Stone",
+    "genre": "electronic"
+  },
+  {
+    "name": "Storytellers",
+    "genre": "other"
+  },
+  {
+    "name": "Ted Nugent",
+    "genre": "metal"
+  },
+  {
+    "name": "The Beach Boys",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "The Chemical Brothers",
+    "genre": "electronic"
+  },
+  {
+    "name": "The Commodores",
+    "genre": "jazz"
+  },
+  {
+    "name": "The Cramps",
+    "genre": "punk"
+  },
+  {
+    "name": "The Go! Team",
+    "genre": "indie"
+  },
+  {
+    "name": "The Heartaches",
+    "genre": "punk"
+  },
+  {
+    "name": "The Helio Sequence",
+    "genre": "indie"
+  },
+  {
+    "name": "The Killers",
+    "genre": "indie"
+  },
+  {
+    "name": "The Notorious B.I.G.",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "The Roots",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "The Seeds",
+    "genre": "indie"
+  },
+  {
+    "name": "The Stone Roses",
+    "genre": "indie"
+  },
+  {
+    "name": "The Sword",
+    "genre": "metal"
+  },
+  {
+    "name": "The Temptations",
+    "genre": "jazz"
+  },
+  {
+    "name": "Thee Oh Sees",
+    "genre": "indie"
+  },
+  {
+    "name": "Too $hort",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Tool",
+    "genre": "metal"
+  },
+  {
+    "name": "Turing Machine",
+    "genre": "indie"
+  },
+  {
+    "name": "U2",
+    "genre": "indie"
+  },
+  {
+    "name": "William Orbit",
+    "genre": "electronic"
+  },
+  {
+    "name": "13th Floor Elevators",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Action Bronson",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Agent Orange",
+    "genre": "punk"
+  },
+  {
+    "name": "Agnostic Front",
+    "genre": "punk"
+  },
+  {
+    "name": "Alyasha",
+    "genre": "other"
+  },
+  {
+    "name": "Andy Caldwell",
+    "genre": "electronic"
+  },
+  {
+    "name": "Beach Fossils",
+    "genre": "indie"
+  },
+  {
+    "name": "Beach House",
+    "genre": "indie"
+  },
+  {
+    "name": "Beanie Sigel",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Big Daddy Kane",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Big Tymers",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Billy Idol",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Black Lips",
+    "genre": "indie"
+  },
+  {
+    "name": "Black Moon",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Black Moth Super Rainbow",
+    "genre": "electronic"
+  },
+  {
+    "name": "Blue States",
+    "genre": "jazz"
+  },
+  {
+    "name": "Blur",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Boac",
+    "genre": "other"
+  },
+  {
+    "name": "Bob James",
+    "genre": "jazz"
+  },
+  {
+    "name": "Broken Spindles",
+    "genre": "electronic"
+  },
+  {
+    "name": "Budgie",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Bully",
+    "genre": "other"
+  },
+  {
+    "name": "Chad VanGaalen",
+    "genre": "indie"
+  },
+  {
+    "name": "Charles Bradley",
+    "genre": "jazz"
+  },
+  {
+    "name": "Clap Your Hands Say Yeah",
+    "genre": "indie"
+  },
+  {
+    "name": "Coconut Records",
+    "genre": "indie"
+  },
+  {
+    "name": "Colin Potter",
+    "genre": "other"
+  },
+  {
+    "name": "Combine",
+    "genre": "other"
+  },
+  {
+    "name": "Consortium",
+    "genre": "indie"
+  },
+  {
+    "name": "Cornelius",
+    "genre": "indie"
+  },
+  {
+    "name": "Craig Fox",
+    "genre": "other"
+  },
+  {
+    "name": "Daft Punk",
+    "genre": "electronic"
+  },
+  {
+    "name": "Dead Meadow",
+    "genre": "metal"
+  },
+  {
+    "name": "Dead Prez",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Deadxbeat",
+    "genre": "other"
+  },
+  {
+    "name": "Depeche Mode",
+    "genre": "indie"
+  },
+  {
+    "name": "Dire Straits",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "DJ Greyboy",
+    "genre": "indie"
+  },
+  {
+    "name": "DJ Kechup",
+    "genre": "electronic"
+  },
+  {
+    "name": "DJ Sureshot",
+    "genre": "electronic"
+  },
+  {
+    "name": "Dr Octagon",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Dr. Dre",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Dwarves",
+    "genre": "punk"
+  },
+  {
+    "name": "Early Man",
+    "genre": "other"
+  },
+  {
+    "name": "Echo & The Bunnymen",
+    "genre": "punk"
+  },
+  {
+    "name": "Editors",
+    "genre": "indie"
+  },
+  {
+    "name": "Edward Sharpe & The Magnetic Zeros",
+    "genre": "indie"
+  },
+  {
+    "name": "Eels",
+    "genre": "indie"
+  },
+  {
+    "name": "Eighty Mile Beach",
+    "genre": "electronic"
+  },
+  {
+    "name": "EKP",
+    "genre": "other"
+  },
+  {
+    "name": "El Stew",
+    "genre": "other"
+  },
+  {
+    "name": "Electrelane",
+    "genre": "electronic"
+  },
+  {
+    "name": "Elliot",
+    "genre": "other"
+  },
+  {
+    "name": "Elton John",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Eric Burdon & The Animals",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Explosions in the Sky",
+    "genre": "indie"
+  },
+  {
+    "name": "Face To Face",
+    "genre": "punk"
+  },
+  {
+    "name": "Fela Kuti",
+    "genre": "jazz"
+  },
+  {
+    "name": "Fischerspooner",
+    "genre": "electronic"
+  },
+  {
+    "name": "Fleet Foxes",
+    "genre": "indie"
+  },
+  {
+    "name": "Flogging Molly",
+    "genre": "punk"
+  },
+  {
+    "name": "Fluf",
+    "genre": "other"
+  },
+  {
+    "name": "Frank Sinatra",
+    "genre": "jazz"
+  },
+  {
+    "name": "Free The Robots",
+    "genre": "jazz"
+  },
+  {
+    "name": "Fu Manchu",
+    "genre": "metal"
+  },
+  {
+    "name": "Funkadelic",
+    "genre": "jazz"
+  },
+  {
+    "name": "Gas Huffer",
+    "genre": "other"
+  },
+  {
+    "name": "Geto Boys",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Ghostface Killah",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Girlschool",
+    "genre": "metal"
+  },
+  {
+    "name": "Gloritone",
+    "genre": "other"
+  },
+  {
+    "name": "Goat",
+    "genre": "other"
+  },
+  {
+    "name": "GOD",
+    "genre": "other"
+  },
+  {
+    "name": "Gorillaz",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Green Day",
+    "genre": "punk"
+  },
+  {
+    "name": "Growing",
+    "genre": "other"
+  },
+  {
+    "name": "Guttermouth",
+    "genre": "punk"
+  },
+  {
+    "name": "Hall & Oates",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Happy Go Licky",
+    "genre": "other"
+  },
+  {
+    "name": "Helmet",
+    "genre": "metal"
+  },
+  {
+    "name": "High On Fire",
+    "genre": "metal"
+  },
+  {
+    "name": "Hive",
+    "genre": "other"
+  },
+  {
+    "name": "Hole",
+    "genre": "indie"
+  },
+  {
+    "name": "House Of Pain",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Ian Brown",
+    "genre": "indie"
+  },
+  {
+    "name": "J Mascis and the Fog",
+    "genre": "metal"
+  },
+  {
+    "name": "J.F.A.",
+    "genre": "punk"
+  },
+  {
+    "name": "Jets to Brazil",
+    "genre": "indie"
+  },
+  {
+    "name": "John Coltrane",
+    "genre": "jazz"
+  },
+  {
+    "name": "Johnny Thunders",
+    "genre": "punk"
+  },
+  {
+    "name": "Juelz Santana",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Kenny Loggins",
+    "genre": "indie"
+  },
+  {
+    "name": "Kingpin Skinny Pimp",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Lard",
+    "genre": "metal"
+  },
+  {
+    "name": "Le Mix Tape Delux",
+    "genre": "other"
+  },
+  {
+    "name": "Liam the Younger",
+    "genre": "other"
+  },
+  {
+    "name": "Living Keys Music",
+    "genre": "other"
+  },
+  {
+    "name": "Lords Of The Underground",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Los Olvidados",
+    "genre": "punk"
+  },
+  {
+    "name": "Mac Dre",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Mazzy Star",
+    "genre": "indie"
+  },
+  {
+    "name": "MF Doom",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Miles Davis",
+    "genre": "jazz"
+  },
+  {
+    "name": "Mother Earth",
+    "genre": "jazz"
+  },
+  {
+    "name": "Mot\u00f6rhead",
+    "genre": "metal"
+  },
+  {
+    "name": "Mum",
+    "genre": "indie"
+  },
+  {
+    "name": "Muse",
+    "genre": "indie"
+  },
+  {
+    "name": "N.W.A",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Neil Diamond",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Norman Greenbaum",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Oasis",
+    "genre": "indie"
+  },
+  {
+    "name": "Outkast",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Pagan Altar",
+    "genre": "metal"
+  },
+  {
+    "name": "Pete Rock",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Peter Bjorn and John",
+    "genre": "indie"
+  },
+  {
+    "name": "Phillip Drummond",
+    "genre": "other"
+  },
+  {
+    "name": "Prefuse 73",
+    "genre": "electronic"
+  },
+  {
+    "name": "Prodigy",
+    "genre": "electronic"
+  },
+  {
+    "name": "Propellerheads",
+    "genre": "electronic"
+  },
+  {
+    "name": "Protassov",
+    "genre": "jazz"
+  },
+  {
+    "name": "Puffball",
+    "genre": "other"
+  },
+  {
+    "name": "Rakim",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Ratatat",
+    "genre": "electronic"
+  },
+  {
+    "name": "Renee Renee",
+    "genre": "other"
+  },
+  {
+    "name": "Roky Erickson",
+    "genre": "metal"
+  },
+  {
+    "name": "Seafood",
+    "genre": "indie"
+  },
+  {
+    "name": "Sebastien Daurel",
+    "genre": "other"
+  },
+  {
+    "name": "Semisonic",
+    "genre": "indie"
+  },
+  {
+    "name": "Sex Pistols",
+    "genre": "punk"
+  },
+  {
+    "name": "Sharon Jones & The Dap Kings",
+    "genre": "jazz"
+  },
+  {
+    "name": "Shitkickers",
+    "genre": "punk"
+  },
+  {
+    "name": "Sixtoo",
+    "genre": "electronic"
+  },
+  {
+    "name": "Smut Peddlers",
+    "genre": "punk"
+  },
+  {
+    "name": "Spindrift",
+    "genre": "indie"
+  },
+  {
+    "name": "Spiritualized",
+    "genre": "indie"
+  },
+  {
+    "name": "Steely Dan",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "Strung Out",
+    "genre": "punk"
+  },
+  {
+    "name": "Styles Of Beyond",
+    "genre": "other"
+  },
+  {
+    "name": "Sufjan Stevens",
+    "genre": "indie"
+  },
+  {
+    "name": "Sunset Rubdown",
+    "genre": "indie"
+  },
+  {
+    "name": "Tanner",
+    "genre": "other"
+  },
+  {
+    "name": "The Album Leaf",
+    "genre": "indie"
+  },
+  {
+    "name": "The Black Lips",
+    "genre": "indie"
+  },
+  {
+    "name": "The Breeders",
+    "genre": "punk"
+  },
+  {
+    "name": "The Buzzcocks",
+    "genre": "punk"
+  },
+  {
+    "name": "The Charlatans",
+    "genre": "indie"
+  },
+  {
+    "name": "The Coral",
+    "genre": "indie"
+  },
+  {
+    "name": "The Cry",
+    "genre": "indie"
+  },
+  {
+    "name": "The Dandy Warhols",
+    "genre": "indie"
+  },
+  {
+    "name": "The Four Tops",
+    "genre": "other"
+  },
+  {
+    "name": "The Get Up Kids",
+    "genre": "punk"
+  },
+  {
+    "name": "The Goat & The Occasional Others",
+    "genre": "other"
+  },
+  {
+    "name": "The Knife",
+    "genre": "electronic"
+  },
+  {
+    "name": "The Needles",
+    "genre": "punk"
+  },
+  {
+    "name": "The Police",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "The Raconteurs",
+    "genre": "indie"
+  },
+  {
+    "name": "The Raveonettes",
+    "genre": "indie"
+  },
+  {
+    "name": "The Sadies",
+    "genre": "metal"
+  },
+  {
+    "name": "The Saints",
+    "genre": "punk"
+  },
+  {
+    "name": "The Sea and Cake",
+    "genre": "indie"
+  },
+  {
+    "name": "The Small Faces",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "The Sonics",
+    "genre": "punk"
+  },
+  {
+    "name": "The Stooges",
+    "genre": "punk"
+  },
+  {
+    "name": "The Strokes",
+    "genre": "indie"
+  },
+  {
+    "name": "The Teenagers",
+    "genre": "indie"
+  },
+  {
+    "name": "The Veebees",
+    "genre": "punk"
+  },
+  {
+    "name": "The Walkmen",
+    "genre": "indie"
+  },
+  {
+    "name": "The Whitest Boy Alive",
+    "genre": "indie"
+  },
+  {
+    "name": "The Zombies",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "The Zoo",
+    "genre": "indie"
+  },
+  {
+    "name": "Tom Petty & The Heartbreakers",
+    "genre": "classic-rock"
+  },
+  {
+    "name": "U.S. Bombs",
+    "genre": "punk"
+  },
+  {
+    "name": "Valient Thorr",
+    "genre": "metal"
+  },
+  {
+    "name": "Van Halen",
+    "genre": "metal"
+  },
+  {
+    "name": "Vangelis",
+    "genre": "electronic"
+  },
+  {
+    "name": "Viking Skull",
+    "genre": "metal"
+  },
+  {
+    "name": "Vito Y Coco",
+    "genre": "electronic"
+  },
+  {
+    "name": "War",
+    "genre": "indie"
+  },
+  {
+    "name": "Whodini",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Wonderful Broken Thing",
+    "genre": "indie"
+  },
+  {
+    "name": "X",
+    "genre": "other"
+  },
+  {
+    "name": "Xzibit",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Young Jeezy",
+    "genre": "hip-hop"
+  },
+  {
+    "name": "Zigitros",
+    "genre": "other"
+  },
+  {
+    "name": "Zoeangel",
+    "genre": "other"
+  },
+  {
+    "name": "ZZ Top",
+    "genre": "classic-rock"
+  }
+]
