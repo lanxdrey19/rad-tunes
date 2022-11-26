@@ -6,7 +6,7 @@ const app = express();
 app.get("/search", (req, res) => {
   try {
     if (req.query.term.trim() === "") {
-      res.send(currentItems);
+      res.status(200).json(currentItems);
     } else {
       console.log(req.query.term);
 
@@ -16,10 +16,16 @@ app.get("/search", (req, res) => {
           req.query.term.toLowerCase().trim()
       );
 
-      res.send(filteredItems);
+      res.status(200).json(filteredItems);
     }
   } catch (err) {
-    res.status(400).json({ message: err.message }).end();
+    res
+      .status(400)
+      .json({
+        message:
+          "you must enter a valid query term. e.g. search?term=<your search term here>",
+      })
+      .end();
   }
 });
 
