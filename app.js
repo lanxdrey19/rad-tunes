@@ -1,17 +1,25 @@
 const express = require("express");
-const items = require("./data.json");
+const currentItems = require("./data.json");
 
 const app = express();
 
 app.get("/search", (req, res) => {
-  if (!req.query || !req.query.term.trim()) {
-    res.send(items);
-  } else {
-    const filteredData = items.filter(
-      (item) =>
-        item.genre.toLowerCase().trim() === req.query.term.toLowerCase().trim()
-    );
-    res.send(filteredData);
+  try {
+    if (req.query.term.trim() === "") {
+      res.send(currentItems);
+    } else {
+      console.log(req.query.term);
+
+      const filteredItems = currentItems.filter(
+        (item) =>
+          item.genre.toLowerCase().trim() ===
+          req.query.term.toLowerCase().trim()
+      );
+
+      res.send(filteredItems);
+    }
+  } catch (err) {
+    res.status(400).json({ message: err.message }).end();
   }
 });
 
