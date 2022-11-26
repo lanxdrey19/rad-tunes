@@ -5,16 +5,29 @@ const app = express();
 
 app.get("/search", (req, res) => {
   try {
-    if (req.query.term.trim() === "") {
+    console.log(req.query);
+    if (!Array.isArray(req.query.term) && req.query.term.trim() === "") {
       res.status(200).json(currentItems);
     } else {
-      console.log(req.query.term);
+      let searchTermsArray = [];
 
-      const filteredItems = currentItems.filter(
-        (item) =>
-          item.genre.toLowerCase().trim() ===
-          req.query.term.toLowerCase().trim()
-      );
+      if (!Array.isArray(req.query.term)) {
+        searchTermsArray.push(req.query.term);
+      } else {
+        searchTermsArray = req.query.term;
+      }
+      console.log(searchTermsArray);
+      const filteredItems = currentItems.filter((item) => {
+        let count = 0;
+        searchTermsArray.forEach((genre) => {
+          if (genre.toLowerCase().trim() === item.genre.toLowerCase().trim()) {
+            count++;
+          }
+        });
+        if (count > 0) {
+          return item;
+        }
+      });
 
       res.status(200).json(filteredItems);
     }
@@ -22,8 +35,8 @@ app.get("/search", (req, res) => {
     res
       .status(400)
       .json({
-        message:
-          "you must enter a valid query term. e.g. search?term=<your search term here>",
+        error_message:
+          "you must enter a valid query term in this format e.g. http://localhost:3000/search?term=<your_search_term_here> or http://localhost:3000/search?term=<your_first_search_term_here>&term=<your_second_search_term_here>",
       })
       .end();
   }
