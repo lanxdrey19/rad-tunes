@@ -1,0 +1,23 @@
+{
+  "name": "rad-tunes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanxdrey19/rad-tunes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanxdrey19/rad-tunes/issues"
+  },
+  "homepage": "https://github.com/lanxdrey19/rad-tunes#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
