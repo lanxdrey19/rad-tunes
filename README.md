@@ -26,10 +26,10 @@ Include punk artists only
 Exclude punk artists
 `http://localhost:3000/search?exclude=punk`
 
-Include artists from genres that have pun in it
+Include artists from genres that contain "pun" in it
 `http://localhost:3000/search?has=pun`
 
-Exclude artists from genres that have pun in it
+Exclude artists from genres that contain "pun" in it
 `http://localhost:3000/search?hasnot=pun`
 
 Include artists from the punk and jazz genres
