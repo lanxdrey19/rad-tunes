@@ -37,19 +37,19 @@ app.get("/search", (req, res) => {
      * The assumption is that the user wanted to include or exclude everything.
      */
     if (Object.keys(req.query).length === 1) {
-      if ("include" in req.query) {
+      if ("include" in req.query && !Array.isArray(req.query.include)) {
         if (req.query.include.trim() === "") {
           res.status(200).json(currentItems).end();
         }
-      } else if ("has" in req.query) {
+      } else if ("has" in req.query && !Array.isArray(req.query.has)) {
         if (req.query.has.trim() === "") {
           res.status(200).json(currentItems).end();
         }
-      } else if ("exclude" in req.query) {
+      } else if ("exclude" in req.query && !Array.isArray(req.query.exclude)) {
         if (req.query.exclude.trim() === "") {
           res.status(200).json(noResults).end();
         }
-      } else if ("hasnot" in req.query) {
+      } else if ("hasnot" in req.query && !Array.isArray(req.query.hasnot)) {
         if (req.query.hasnot.trim() === "") {
           res.status(200).json(noResults).end();
         }
@@ -185,7 +185,8 @@ app.get("/search", (req, res) => {
       res.status(200).json(finalResults).end();
     }
   } catch (err) {
-    res.status(500).json({ error_msg: "a server error occurred" });
+    res.status(500).json({ err_msg: err.message });
+    //res.status(500).json({ error_msg: "a server error occurred" });
   }
 });
 
