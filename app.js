@@ -7,21 +7,40 @@ app.get("/search", (req, res) => {
   try {
     let finalResults;
     const noResults = [];
+
     if (
-      !Array.isArray(req.query["include"]) &&
-      Object.keys(req.query).length === 1 &&
-      "include" in req.query
+      !(
+        "exclude" in req.query ||
+        "include" in req.query ||
+        "has" in req.query ||
+        "hasnot" in req.query
+      )
     ) {
-      if (req.query.include.trim() === "") {
-        res.status(200).json(currentItems).end();
-      }
-    } else if (
-      !Array.isArray(req.query["exclude"]) &&
-      Object.keys(req.query).length === 1 &&
-      "exclude" in req.query
-    ) {
-      if (req.query.exclude.trim() === "") {
-        res.status(200).json(noResults).end();
+      res
+        .status(400)
+        .json({
+          error_message:
+            "you must have at least one of the query terms: exclude, include, has, hasnot",
+        })
+        .end();
+    }
+    if (Object.keys(req.query).length === 1) {
+      if ("include" in req.query) {
+        if (req.query.include.trim() === "") {
+          res.status(200).json(currentItems).end();
+        }
+      } else if ("has" in req.query) {
+        if (req.query.has.trim() === "") {
+          res.status(200).json(currentItems).end();
+        }
+      } else if ("exclude" in req.query) {
+        if (req.query.exclude.trim() === "") {
+          res.status(200).json(noResults).end();
+        }
+      } else if ("hasnot" in req.query) {
+        if (req.query.hasnot.trim() === "") {
+          res.status(200).json(noResults).end();
+        }
       }
     }
 
@@ -59,7 +78,6 @@ app.get("/search", (req, res) => {
           item.toLowerCase().trim()
         );
       }
-
       if ("has" in req.query) {
         if (!Array.isArray(req.query.has)) {
           searchTermsHasArray.push(req.query.has);
@@ -149,7 +167,7 @@ app.get("/search", (req, res) => {
     //   })
     //   .end();
 
-    res.status(400).json({ err_msg: err.message });
+    res.status(400).json({ error_msg: err.message });
   }
 });
 
