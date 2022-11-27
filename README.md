@@ -4,8 +4,8 @@ Rad Tunes is an HTTP API that contains one endpoint that allows a user to filter
 
 ## Prerequisites
 
-node `16.14.0`
-npm `7.19.0`
+- node `16.14.0`
+- npm `7.19.0`
 
 If you do not have these, then install node here https://nodejs.org/en/ (npm is included at the installation of node)
 
@@ -29,7 +29,7 @@ Exclude punk artists
 Include artists from genres that have `pun` in it
 `http://localhost:3000/search?has=pun`
 
-Exclude artists from genres that have `pun` in it
+Exclude artists from genres that have pun in it
 `http://localhost:3000/search?hasnot=pun`
 
 Include artists from the punk and jazz genres
