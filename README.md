@@ -42,7 +42,7 @@ Include artists from the jazz genre and those genres that contain the letter p
 `http://localhost:3000/search?include=jazz&has=p`
 
 Exclude artists from the punk genre and those genres that contain the letter p
-`http://localhost:3000/search?exclude=jazz&has=p`
+`http://localhost:3000/search?exclude=jazz&hasnot=p`
 
 To add more terms, concatenate `&<query_term>=<genre>` at the end of the endpoint where `<query_term>` is either `include`, `exclude`, `has`, and `hasnot`. `<genre>` is the genre or substring of the genre you want to include or exclude.
 
