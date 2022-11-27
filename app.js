@@ -164,14 +164,7 @@ app.get("/search", (req, res) => {
       res.status(200).json(finalResults).end();
     }
   } catch (err) {
-    //   res.status(400)
-    //   .json({
-    //     error_message:
-    //       "you must enter a valid query term in this format e.g. http://localhost:3000/search?include=<your_search_term_here> or http://localhost:3000/search?exclude=<your_first_search_term_here>&exclude=<your_second_search_term_here>",
-    //   })
-    //   .end();
-
-    res.status(400).json({ error_msg: err.message });
+    res.status(500).json({ error_msg: "a server error occurred" });
   }
 });
 
