@@ -46,10 +46,14 @@ app.get("/search", (req, res) => {
 
     if (
       Object.keys(req.query).length > 1 &&
-      "exclude" in req.query &&
-      "include" in req.query &&
-      "has" in req.query &&
-      "hasnot" in req.query
+      (("include" in req.query &&
+        ("exclude" in req.query || "hasnot" in req.query)) ||
+        ("has" in req.query &&
+          ("exclude" in req.query || "hasnot" in req.query)) ||
+        ("exclude" in req.query &&
+          ("include" in req.query || "has" in req.query)) ||
+        ("hasnot" in req.query &&
+          ("include" in req.query || "has" in req.query)))
     ) {
       res
         .status(400)
