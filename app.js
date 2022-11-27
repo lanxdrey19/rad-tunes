@@ -185,8 +185,9 @@ app.get("/search", (req, res) => {
       res.status(200).json(finalResults).end();
     }
   } catch (err) {
-    res.status(500).json({ err_msg: err.message });
-    //res.status(500).json({ error_msg: "a server error occurred" });
+    // uncomment this line for debugging purposes
+    // res.status(500).json({ err_msg: err.message });
+    res.status(500).json({ error_msg: "a server error occurred" });
   }
 });
 
