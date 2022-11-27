@@ -1,9 +1,17 @@
+/**
+ * 200 is returned for successful queries as no new information is created as there is only a GET endpoint
+ * 400 is returned for invalid queries has these are made by the client and are syntax errors
+ * any other invalid query will return 500 to hide implementation details of the server which can be potentially
+ * sensitive
+ */
+
 const express = require("express");
-const currentItems = require("./data.json");
+const currentItems = require("./data.json"); // all the artists
 
 const app = express();
 
 app.get("/search", (req, res) => {
+  // try-catch added to hide potentially sensitive server implementation
   try {
     let finalResults;
     const noResults = [];
@@ -24,6 +32,10 @@ app.get("/search", (req, res) => {
         })
         .end();
     }
+    /**
+     * Edge case where only one query term is entered and it is left blank.
+     * The assumption is that the user wanted to include or exclude everything.
+     */
     if (Object.keys(req.query).length === 1) {
       if ("include" in req.query) {
         if (req.query.include.trim() === "") {
@@ -44,6 +56,9 @@ app.get("/search", (req, res) => {
       }
     }
 
+    /**
+     * Ensure that the endpoint call contains only inclusion-related or exclusion-related query terms
+     */
     if (
       Object.keys(req.query).length > 1 &&
       (("include" in req.query &&
@@ -68,6 +83,12 @@ app.get("/search", (req, res) => {
     let searchTermsHasArray = [];
     let searchTermsExcludeArray = [];
     let searchTermsHasNotArray = [];
+
+    /**
+     * if there is only one value for the query key, it is not an array,
+     * hence, it needs to be an array so it can be processed the same way if
+     * there is more than one value for the key
+     */
 
     if ("include" in req.query || "has" in req.query) {
       let searchTermsIncludeArrayLowerCase = [];
