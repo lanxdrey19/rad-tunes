@@ -1,6 +1,6 @@
 # rad-tunes
 
-Rad Tunes is an HTTP API that contains one endpoint that allows a user to filter music artists based on a certain music genre. Users can enter query parameters to specify whether they want to include or exclude a music artist based on genre. Additionally, users can specify the exact genre or whether the genre contains certain key words or letters.
+Rad Tunes is an HTTP API that contains one endpoint that allows a user to filter music artists based on a certain music genre. Users can enter query parameters to specify whether they want to include or exclude a music artist based on genre. Additionally, users can specify the exact genre or whether the genre contains certain key words or letters. It will return an array of JSON objects that meet the filtering criteria or an empty array if none of the objects meet the filtering criteria or if all the objects are excluded from the exclusion criteria. 
 
 ## Prerequisites
 
