@@ -11,7 +11,7 @@ If you do not have these, then install node here https://nodejs.org/en/ (npm is 
 
 ## How To Run Project
 
-1. Clone the repository. Open your terminal and run `git clone https://github.com/lanxdrey19/rad-tunes.git`
+1. Clone the repository by opening your terminal and run `git clone https://github.com/lanxdrey19/rad-tunes.git`
 2. Then run `cd rad-tunes`
 3. Then run `npm install`
 3. Then run `npm start`
